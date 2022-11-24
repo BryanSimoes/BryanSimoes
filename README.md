@@ -27,3 +27,4 @@
   
   
 </div><br/>
+Olá, sou o Bryan, tenho 21 anos, formado em montagem e manutenção de computadores e celulares com 1 ano de experiência na área, concluí cursos de assistente administrativo, técnico em informática e atendimento ao público, e atualmente estou cursando desenvolvimento Front, Back-End e SoftSkill pela Resilia e Senac.
