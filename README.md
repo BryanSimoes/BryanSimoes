@@ -1,4 +1,4 @@
-<img width="1100em" src="https://ar.pinterest.com/pin/611504455652179822/"/>
+<img width="1100em" src="https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711"/>
 <h1>Olá! Eu me chamo Bryan Simões!</h1>
 
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Bryan_Simoes)
