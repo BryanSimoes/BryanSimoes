@@ -1,4 +1,4 @@
-<img width="1100em" src="https://pin.it/6mlQH9C"/>
+<img width="1100em" src="https://i.pinimg.com/originals/0f/88/3e/0f883e6f5db348671c1e26a7dfd2e5f3.gif"/>
 <h1>Olá! Eu me chamo Bryan Simões!</h1>
 
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Bryan_Simoes)
