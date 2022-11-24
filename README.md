@@ -1,5 +1,5 @@
 
-<img width="1100em" src="https://cdna.artstation.com/p/assets/images/images/024/538/828/original/pixel-jeff-clipc-s.gif?1582740521"/>
+
 ![gif](https://user-images.githubusercontent.com/112700266/203802438-00ea9428-b9d9-4d08-9695-b83c97b3d66c.gif)
 
 <h1>Olá! Eu me chamo Bryan Simões!</h1>
